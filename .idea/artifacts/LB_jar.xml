@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LB_jar</output-path>
+    <root id="archive" name="LB.jar">
+      <element id="module-output" name="LB" />
+      <element id="extracted-dir" path="D:/Downloads/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-collections4-4.2-bin/commons-collections4-4.2/commons-collections4-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-collections4-4.2-bin/commons-collections4-4.2/commons-collections4-4.2-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-collections4-4.2-bin/commons-collections4-4.2/commons-collections4-4.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-collections4-4.2-bin/commons-collections4-4.2/commons-collections4-4.2-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-collections4-4.2-bin/commons-collections4-4.2/commons-collections4-4.2-test-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/opencsv-4.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-lang3-3.9-bin/commons-lang3-3.9/commons-lang3-3.9-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-lang3-3.9-bin/commons-lang3-3.9/commons-lang3-3.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-text-1.6-bin/commons-text-1.6/commons-text-1.6-test-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Downloads/commons-beanutils-1.9.3-bin/commons-beanutils-1.9.3/commons-beanutils-1.9.3-test-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
